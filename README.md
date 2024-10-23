@@ -7,8 +7,6 @@
 ### 🔮 INSTALACION: 🔮
 
 ```
-apt update && apt upgrade -y
-
 pkg install python -y
 
 pkg install python2
