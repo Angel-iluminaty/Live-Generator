@@ -31,10 +31,10 @@ def dexter1999():
 dexter1999()
 time.sleep(1.2)
 print("")
-print("\033[1;32m Checker live Villar")
+print("\033[1;32m CHECKER LIVE CREADO POR ANGEL DEL VILLAR")
 print("")
 time.sleep(1.6)
-print("https://t.me/+eZc15Eln-lMzZmZh")
+print("Telegram comununidad iluminaty:https://t.me/+eZc15Eln-lMzZmZh")
 print("")
 time.sleep(2.2)
 
@@ -204,8 +204,8 @@ def main(argv):
         if not bin_list:
             print("\nERROR: el bin que insertaste no es valido\n")
         else:
-            print("\n Todas las tarjetas fueron validadas con exito ")
-            print("\n Pueden ser usadas satisfactoriamente")
+            print("\n 🔮Todas las tarjetas fueron validadas con exito🔮 ")
+            print("\n 🔮Pueden ser usadas satisfactoriamente🔮")
 
         if saveopt:
             save(bin_list)
