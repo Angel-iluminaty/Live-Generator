@@ -1,4 +1,4 @@
-### Live-Generator
+### Live-Generator Villar
 
 ###### Esta es una herramienta creada en python cuya función es generar lives de bins mediante el mismo algoritmo de cualquier generador. Dicha herramienta fue creada con fines educativos e informativos.
 
