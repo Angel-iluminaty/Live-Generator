@@ -8,10 +8,11 @@
 
 ```
 apt update && apt upgrade -y
-
 pkg install python -y
 
 pkg install python2
+
+pkg install git
 
 pkg install git -y
 
