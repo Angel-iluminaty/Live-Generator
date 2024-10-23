@@ -11,6 +11,8 @@ apt update && apt upgrade -y
 
 pkg install python -y
 
+pkg install python2
+
 pkg install git -y
 
 git clone https://github.com/Angel-iluminaty/Live-Generator
