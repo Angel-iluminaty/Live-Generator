@@ -10,7 +10,7 @@ from random import randint
 version = "1.0.0"
 #Mensaje
 os.system ("clear")
-print("\033[1;32m+\033[1;36m LIVE-GENERATOR")
+print("\033[1;32m+\033[1;36m LIVE-GENERATOR VILLAR")
 time.sleep(1.2)
 #Informacion de ayuda
 def dexter1999():
@@ -31,10 +31,10 @@ def dexter1999():
 dexter1999()
 time.sleep(1.2)
 print("")
-print("\033[1;32m CHECKER LIVE CREADO POR ANGEL DEL VILLAR")
+print("\033[1;32m CHECKER LIVE CREADO POR 🔮 ANGEL DEL VILLAR 🔮")
 print("")
 time.sleep(1.6)
-print("Telegram comununidad iluminaty:https://t.me/+eZc15Eln-lMzZmZh")
+print("comununidad de Telegram iluminaty:https://t.me/+eZc15Eln-lMzZmZh")
 print("")
 time.sleep(2.2)
 
